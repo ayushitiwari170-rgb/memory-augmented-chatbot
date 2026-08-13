@@ -1,0 +1,7 @@
+Python is a programming language widely used in artificial intelligence and machine learning.
+
+Machine learning is a subset of artificial intelligence.
+
+LangGraph is a framework used for workflow orchestration in AI applications.
+
+Retrieval-Augmented Generation (RAG) combines retrieval and language models to answer questions.
